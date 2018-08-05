@@ -1,0 +1,15 @@
+{
+	"name": "@ky-is/vue-cli-plugin-tabs",
+	"version": "0.1.0",
+	"description": "Tab indentation for vue-cli generated files.",
+	"author": "Kyle Coburn",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ky-is/vue-cli-plugin-tabs.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ky-is/vue-cli-plugin-tabs/issues"
+	},
+	"homepage": "https://github.com/ky-is/vue-cli-plugin-tabs#readme"
+}
