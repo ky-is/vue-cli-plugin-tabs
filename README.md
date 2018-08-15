@@ -4,6 +4,12 @@ For degenerates like me that use tab indentation. Invoke after creating a new vu
 
 ## Usage
 
+Install and run:
 ```bash
 vue add @ky-is/tabs
+```
+
+Later, after adding another plugin or file(s) you need converted:
+```bash
+vue invoke @ky-is/tabs
 ```
