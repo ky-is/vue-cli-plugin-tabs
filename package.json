@@ -11,5 +11,9 @@
 	"bugs": {
 		"url": "https://github.com/ky-is/vue-cli-plugin-tabs/issues"
 	},
-	"homepage": "https://github.com/ky-is/vue-cli-plugin-tabs#readme"
+	"homepage": "https://github.com/ky-is/vue-cli-plugin-tabs#readme",
+	"devDependencies": {
+		"@ky-is/eslint-config": "^1.0.0",
+		"eslint": "^5.3.0"
+	}
 }

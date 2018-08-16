@@ -1,6 +1,6 @@
 module.exports = (api) => {
-	const REGEX_SPACE_INDENTS = /^(  )+/gm
-	const REGEX_TWO_SPACES = /  /g
+	const REGEX_SPACE_INDENTS = /^( {2})+/gm
+	const REGEX_TWO_SPACES = / {2}/g
 	const PACKAGE_JSON = 'package.json'
 
 	const replaceAllTwoSpacesWithTab = (spaces) => {
